@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
+@import './normalize.scss';
+
+:root {
+    --primary: #5838C6;
+    --secondary: #EB5E28;
+    --tertiary: #4895EF;
+    --light: #FFFCF2;
+    --dark: #252422;
+}
+
+
+body {
+    font-family: 'Sen', sans-serif;
+
+}

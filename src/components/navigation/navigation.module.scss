@@ -1,0 +1,11 @@
+.main {
+    left: 100%;
+    transition: left 2s;
+    width: 50%;
+    height: 100vh;
+    background: var(--secondary);
+
+    &.opened {
+        left: 0;
+    }
+}
